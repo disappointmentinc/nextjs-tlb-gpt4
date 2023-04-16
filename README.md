@@ -85,7 +85,7 @@ Tech Stack 🛠️
 Simply clone the repository, install the dependencies, and run the development server:
 
 ```
-git clone https://github.com/enricoros/nextjs-chatgpt-app.git
+git clone https://github.com/enricoros/negitxtjs-chatgpt-app.git
 cd nextjs-chatgpt-app
 npm install
 npm run dev
